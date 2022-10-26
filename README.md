@@ -21,7 +21,7 @@ div align="center" style="font-weight: bold">Olá! 😃😃</div>
 </div>
 <hr/>
   <div align="center">
-    <h6>Estatísticas</h6>
+    <h6>Statistics</h6>
       <img height="160em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=faugusto-oliveira&theme=2077"/>
   </div>
 <hr/>
@@ -35,6 +35,3 @@ div align="center" style="font-weight: bold">Olá! 😃😃</div>
   <img title="Javascript" width="30px" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 
 </div>
-
-  
-  ![Snake animation](https://github.com/faugusto-oliveira/faugusto-oliveira/blob/output/github-contribution-grid-snake.svg)
