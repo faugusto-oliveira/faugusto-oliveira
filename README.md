@@ -16,7 +16,7 @@ div align="center" style="font-weight: bold">Olá! 😃😃</div>
 </div>
 <div align="center">
   <a href="https://github.com/faugusto-oliveira">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=faugusto-oliveira&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=faugusto-oliveira&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=faugusto-oliveira&theme=2077"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faugusto-oliveira&layout=compact&langs_count=7&theme=synthwave"/>
 </div>
 <hr/>
