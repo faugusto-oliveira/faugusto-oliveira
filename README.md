@@ -1,5 +1,4 @@
-### Hi there 👋
-<div style="font-weight: bold">Olá! 😃😃</div>
+### Olá 👋
 - 🤔 Any pronouns <br/>
 - 📚 Studying for my degree in IT at UFJF<br/>
 - 📫 You can reach me at faugusto.oliveira@outlook.com <br/>
