@@ -1,8 +1,8 @@
 ### Hi there 👋
-div align="center" style="font-weight: bold">Olá! 😃😃</div>
+<div align="center" style="font-weight: bold">Olá! 😃😃</div>
 - 🤔 Any pronouns <br/>
 - 📚 Studying for my degree in IT at UFJF<br/>
-- 📫 You can reach me at faugusto.oliveira@outlook.com br/>
+- 📫 You can reach me at faugusto.oliveira@outlook.com <br/>
 - 🌱 Re-entering backend with focus on C# <br/>
 <br/>
 
