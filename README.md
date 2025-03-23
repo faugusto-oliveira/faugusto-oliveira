@@ -2,7 +2,7 @@
 - 🤔 Any pronouns <br/>
 - 📚 Studying for my degree in IT at UFJF<br/>
 - 📫 You can reach me at faugusto.oliveira@outlook.com <br/>
-- 🌱 Re-entering backend with focus on C# <br/>
+- 🌱 Re-entering backend with focus on Java <br/>
 <br/>
 
 <div align="center">
